@@ -48,8 +48,8 @@ Honors and Awards
 
 Journal Reviewer
 ------
-- IEEE Journal of Biomedical and Health Informatics
-- Signal, Image and Video Processing
+- IEEE Journal of Biomedical and Health Informatics.
+- Signal, Image and Video Processing.
 
 For more info
 ------
