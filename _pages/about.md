@@ -39,13 +39,17 @@ Publications
 
 Manuscripts in Progress
 ------
-1. **Dongdong Zhou**, Qi Xu, Jiacheng Zhang, Lei Wu, Lauri Kettunen, Zheng Chang and Fengyu Cong. Interpretable Sleep Stage Classification Based on Layer-wise Relevance Propagation. Submitted to IEEE Transactions on Cognitive and Developmental Systems.
+1. **Dongdong Zhou**, Qi Xu, Jiacheng Zhang, Lei Wu, Lauri Kettunen, Zheng Chang, Hongming Xu, and Fengyu Cong. Interpretable Sleep Stage Classification Based on Layer-wise Relevance Propagation. Submitted to IEEE Transactions on Cognitive and Developmental Systems.
 
 Honors and Awards
 ------
 - Chinese Government Scholarship, from China Scholarship Council, 2019.02 ∼2022.01 (1350Euros/month).
 - Short Term Grants, from University of Jyväskylä, 2023.01 ∼2023.03 (1900Euros/month).
 
+Journal Reviewer
+------
+- IEEE Journal of Biomedical and Health Informatics
+- Signal, Image and Video Processing
 
 For more info
 ------
