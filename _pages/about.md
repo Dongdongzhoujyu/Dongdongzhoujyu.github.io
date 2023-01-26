@@ -43,7 +43,7 @@ Manuscripts in Progress
 
 Honors and Awards
 ------
-- Chinese Government Scholarship, from China Scholarship Council, 2019.02 ∼2022.01 (1350Euros/month).
+- Chinese Government Scholarship, from China Scholarship Council, 2019.02 ∼2023.01 (1350Euros/month).
 - Short Term Grants, from University of Jyväskylä, 2023.01 ∼2023.03 (1900Euros/month).
 
 Journal Reviewer
