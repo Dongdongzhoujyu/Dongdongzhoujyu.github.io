@@ -49,6 +49,7 @@ Honors and Awards
 Journal Reviewer
 ------
 - IEEE Journal of Biomedical and Health Informatics.
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering.
 - Signal, Image and Video Processing.
 
 For more info
