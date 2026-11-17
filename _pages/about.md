@@ -7,11 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-● I am currently a Ph.D. candidate (2019.03-Present, software and communications engineering) in the Faculty of Information Technology, [University of Jyväskylä](https://www.jyu.fi/en/), Finland,  supervised by Prof. [Lauri Kettunen](https://scholar.google.com/citations?user=5oo0DaAAAAAJ&hl=en), Prof. [Zheng Chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=en), Prof.  [Fengyu Cong](https://scholar.google.com/citations?user=Jd0dQA8AAAAJ&hl=en), and Prof. [Tapani Ristaniemi](https://scholar.google.com/citations?user=OwGqX4AAAAAJ&hl=en). I am a member of [SPWC lab](https://www.jyu.fi/it/en/research/research-areas/software-and-telecommunication-technology/signal-processing) and [ASAP lab](http://www.escience.cn/people/cong/asap.html).
+- I am currently an Assistant Professor in the School of Computer Science and Technology, [Dalian University of Technology (DLUT)](https://en.dlut.edu.cn/), China, working with Prof. [Qiang Zhang](https://scholar.google.com/citations?user=RR9wBkAAAAAJ&hl=en) and Prof. [Fengyu Cong](https://scholar.google.com/citations?user=Jd0dQA8AAAAJ&hl=en).
+- I received my Ph.D. degree in Software and Communications Engineering from the Faculty of Information Technology, [University of Jyväskylä](https://www.jyu.fi/en/), Finland, in 2023, supervised by Prof. [Lauri Kettunen](https://scholar.google.com/citations?user=5oo0DaAAAAAJ&hl=en), Prof. [Fengyu Cong](https://scholar.google.com/citations?user=Jd0dQA8AAAAJ&hl=en), Prof. [Zheng Chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=en), and Prof. [Tapani Ristaniemi](https://scholar.google.com/citations?user=OwGqX4AAAAAJ&hl=en).
+- I received my M.Eng. degree (2018, supervised by Assoc. Prof. [Liping Qi](https://www.researchgate.net/profile/Liping-Qi)) and B.Eng. degree (2015) in Biomedical Engineering from the School of Biomedical Engineering, [Dalian University of Technology](https://en.dlut.edu.cn/).
 
-● I received my master’s degree in the School of Biomedical Engineering from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2018, supervised by Associate Prof. [Liping Qi](https://www.researchgate.net/profile/Liping-Qi). 
-
-● I obtained my bachelor’s degree in the School of Biomedical Engineering from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2015.
 
 Research
 ======
